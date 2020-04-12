@@ -1,3 +1,4 @@
+//Exibe seus argumentos de linha de comando
 package main
 
 import (
